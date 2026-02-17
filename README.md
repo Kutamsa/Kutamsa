@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Hi there, I'm Satish Kumar! 👋</h1>
   <p>
-    <b>full Stack developer</b> based in <b>India</b>
+    <b>   Full Stack developer</b> based in <b>India</b>
   </p>
 
   <a href="www.linkedin.com/in/satish-kumar26" target="_blank">
@@ -27,7 +27,6 @@
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
