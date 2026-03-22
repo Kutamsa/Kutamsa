@@ -39,15 +39,6 @@
 
 ---
 
-### 📂 Featured Repositories
-
-| Repository | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[full-stack-go-template](https://github.com/shaik-noor/full-stack-go-template)** | A scalable full-stack web application template built with Go. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **[Markdown_Editor]** | A custom editor for writing and previewing Markdown files. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-
----
-
 <div align="center">
   <sub>Built by Satish Kumar</sub>
 </div>
