@@ -39,6 +39,4 @@
 
 ---
 
-<div align="center">
-  <sub>Built by Satish Kumar</sub>
-</div>
+
