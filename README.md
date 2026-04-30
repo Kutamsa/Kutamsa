@@ -19,7 +19,7 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently learning **Reactjs, NodeJS, MongoDb, Express**.
-- 🎥 I create content about Tech on my linked in **(www.linkedin.com/in/satish-kumar26)**.
+- 🎥 I create content about Tech
 
 ---
 
