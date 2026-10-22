@@ -18,8 +18,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Reactjs, NodeJS, MongoDb, Express**.
-- 🎥 I create content about Tech
+- 🌱 I’m currently learning ** NodeJS, Express, Cloud Fundamentals**.
 
 ---
 
